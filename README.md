@@ -3,8 +3,6 @@
 ## AIM:
 To create a warehouse application in salesforce.com
 
-## Procedure
-
 ### Types of Applications in SFDC
 
 In Salesforce.com, we have two types of Applications they are
